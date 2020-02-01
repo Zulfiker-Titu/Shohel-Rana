@@ -391,6 +391,8 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8
 #EXTINF:-1,BAHRAIN TV SPORTS
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1180161901.m3u8
+#EXTINF:-1,Fight Box
+https://1610186124.rsc.cdn77.org/1610186124/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
 #EXTINF:-1,BT Sports 1 HD
@@ -419,12 +421,16 @@ https://anevia115.mncnow.id:443/live/eds/FoxSports3/sa_hls/FoxSports3.m3u8
 http://51.158.144.124:8090/CR/1/index.m3u8
 #EXTINF:-1,ATS Sports
 http://51.158.144.124:8090/CR/2/index.m3u8
-#EXTINF:-1,S2
-http://51.158.144.124:8090/CR/5/index.m3u8
-#EXTINF:-1,S3
-http://sg.ocache.xyz/sports/supersp3.m3u8
-#EXTINF:-1,S4
-http://sg.ocache.xyz/sports/supersp4.m3u8
+#EXTINF:-1,Super Sports 3 HD
+http://us.ocache.xyz/sports/supersp3.m3u8
+#EXTINF:-1,Super Sports 5 HD
+http://us.ocache.xyz/sports/supersp5.m3u8
+#EXTINF:-1,Super Sports 7 HD
+http://us.ocache.xyz/sports/supersp7.m3u8
+#EXTINF:-1,Super Sports 8 HD
+http://us.ocache.xyz/sports/supersp8.m3u8
+#EXTINF:-1,Super Sports 9 HD
+http://us.ocache.xyz/sports/supersp9.m3u8
 #EXTINF:-1,Willow
 http://51.158.144.124:8090/CR/7/index.m3u8
 #EXTINF:-1,Fox News
@@ -603,15 +609,15 @@ http://livecdnh1.tvanywhere.ae/hls/zing/index.m3u8
 http://216.144.250.174/Colors_TV_HD_02/index.m3u8
 #EXTINF:-1,Colors HD (Opt-2)
 http://vootlivelinear.akamaized.net/hls/live/2008467/VootBBH13/master_3628.m3u8
-#EXTINF:-1,Colors SD (Opt-1)
+#EXTINF:-1,Colors (Opt-1)
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
-#EXTINF:-1,Colors SD (Opt-2)
+#EXTINF:-1,Colors (Opt-2)
 http://fr-c.movply.stream/hls/Colors.m3u8
 #EXTINF:-1,Sony TV (Opt-1)
 http://103.118.76.234:1935/tvprogram/SONY-HD/chunklist.m3u8
 #EXTINF:-1,Sony TV (Opt-2)
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
-#EXTINF:-1,Sony TV (Opt-3)
+#EXTINF:-1,Sony TV HD
 http://216.144.250.174/Sony_TV_HD_02/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SONY MAX HD
 https://streamer-1.toffeelive.com/live/set_max_hd_720/index.m3u8
